@@ -1,6 +1,6 @@
 const { registerCommand } = require('../lib/vibez');
 const { button } = require('../framework/menu_button');
-const { prefix } = require('../config');
+const { prefix } = require('../set');
 
 registerCommand({
   nomCom: "menu",
