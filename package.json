@@ -1,24 +1,24 @@
 {
-  "name": "zokou-2.0",
-  "version": "2.0.0",
+  "name": "Peneti-1.0",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node index.js",
-    "zokou": "pm2 start index.js --attach",
+    "start": "pm2 start index.js --attach",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Zokou",
+    "Peneti",
     "whatsapp",
     "whatsapp-bot",
     "Faouz995"
   ],
-  "author": "Faouz995",
-  "license": "ISC",
+  "author": "Mpeneti",
+  "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^10.0.1",
