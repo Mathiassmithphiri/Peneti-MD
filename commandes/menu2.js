@@ -1,10 +1,11 @@
 const { registerCommand } = require('../lib/vibez');
 const { button } = require('../framework/menu_button');
-const { prefix } = require('../set');
+const { prefixe } = require('../set');
 
 registerCommand({
-  nomCom: "menu",
+  name: "menu2",
   categorie: "General"
+  usage:${prefixe} + "menu2"
 }, async (dest, zk, commandOptions) => {
   const { ms, respond, authorName, mybotpic } = commandOptions;
   const commands = {};
