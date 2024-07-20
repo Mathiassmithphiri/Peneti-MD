@@ -3,7 +3,7 @@
 
 PENETI-bot is fast WhatsApp BOT
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝐏𝐎𝐖𝐄𝐑𝐄𝐃+𝐁𝐘+𝐌.𝐏𝐞𝐧𝐞𝐭𝐢+🇿🇼)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝐏𝐎𝐖𝐄𝐑𝐄𝐃+𝐁𝐘+𝐌.𝐏𝐞𝐧𝐞𝐭𝐢+)](https://git.io/typing-svg)
      <img src="https://telegra.ph/file/36ea6f178ce49605a1177.jpg"  width="700px">
 </a>
 <hr>
@@ -58,7 +58,8 @@ The WhatsApp Bot Peneti-md is released under the [MIT License](https://opensourc
 
 Enjoy the diverse features of the WhatsApp Bot Peneti to enhance your conversations and make your WhatsApp experience more interesting!
 
-## Developer:
+## Developers:
 
 - [**᚛MATHIAS PENETI᚜**](https://github.com/Mpeneti)
 
+- [**᚛GIFTED TERRY᚜**](https://github.com/GiftedTerry)
