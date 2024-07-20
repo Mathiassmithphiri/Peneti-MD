@@ -3,7 +3,7 @@ module.exports = {
     text: "Menu",
     url: {
       "View Channel": "https://whatsapp.com/channel/0029VaiVmtX4Y9lpUssihA1x",
-      "View Group": "https://chat.whatsapp.com/LwQvBZlHmpUDbLcvHxV9AI"
+      "bot channel": "https://whatsapp.com/channel/0029VaZpBvk17EmqqDyMrG2i"
     },
     click: async (zk, dest) => {
       const url = button.url[button.text];
