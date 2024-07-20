@@ -5,7 +5,7 @@ const { prefixe } = require('../set');
 registerCommand({
   name: "menu2",
   categorie: "General"
-  usage:${prefixe} + "menu2"
+  usage: `${prefixe}menu2`
 }, async (dest, zk, commandOptions) => {
   const { ms, respond, authorName, mybotpic } = commandOptions;
   const commands = {};
