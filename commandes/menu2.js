@@ -1,4 +1,4 @@
-const { registerCommand } = require('../lib/vibez');
+const { registerCommand } = require('../bdd/lol');
 const { button } = require('../framework/menu_button');
 const { prefixe } = require('../set');
 
