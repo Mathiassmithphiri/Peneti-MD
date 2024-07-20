@@ -1,28 +1,36 @@
 # 𝗣𝗘𝗡𝗘𝗧𝗜-𝗠𝗗
 
 
-PENETI-bot is a multi-device WhatsApp BOT
+PENETI-bot is fast WhatsApp BOT
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝐖𝐎𝐖+𝐄𝐍𝐉𝐎𝐘+𝐏𝐞𝐧𝐞𝐭𝐢+𝐌𝐃+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝐏𝐎𝐖𝐄𝐑𝐄𝐃+𝐁𝐘+𝐌.𝐏𝐞𝐧𝐞𝐭𝐢+🇿🇼)](https://git.io/typing-svg)
      <img src="https://telegra.ph/file/36ea6f178ce49605a1177.jpg"  width="700px">
 </a>
 <hr>
 
 <hr>
 
-## Get Peneti-bot
+## 𝗚𝗘𝗧 𝐏𝐞𝐧𝐞𝐭𝐢-𝐛𝐨𝐭
 
-1. Click on **[FORK Peneti-MD](https://github.com/Mpeneti/Peneti-MD/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
+### 1. FORK THIS REPO
 
-2. 𝗣𝗲𝗻𝗲𝘁𝗶-𝗕𝗼𝘁 𝘀𝗲𝘀𝘀𝗶𝗼𝗻: 
+<a href='https://github.com/Mpeneti/Peneti-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-   [𝐂𝐋𝐈𝐂𝐊 𝐒𝐄𝐀𝐒𝐎𝐍 𝐈𝐃](https://zokouscan-production.up.railway.app) ; <br>
+### 2. GET SESSION ID PAIR / SCAN 
+
+<a href='https://narutosession-2949b4598fc7.herokuapp.com/pair' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Peneti-bot session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 
 3. 𝗡𝗢𝗪 𝗗𝗘𝗣𝗟𝗢𝗬
-   - **Heroku Deployment:**
-     1. If you don't have a **Heroku** account, click [**𝐀𝐂𝐂𝐎𝐔𝐍𝐓**](https://id.heroku.com/login) to create one.
-     3. Click [**𝐃𝐄𝐏𝐋𝐎𝐘**](https://dashboard.heroku.com/new?template=https://github.com/Mpeneti/Peneti-MD) to deploy the bot on **Heroku**.
+
+1. If you don't have an account in Heroku, create one.
+    <br>
+    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+2. Now deploy.
+    <br>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/Mpeneti/Peneti-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+
 
 <hr>
 
@@ -42,17 +50,7 @@ PENETI-bot is a multi-device WhatsApp BOT
 6) 𝙽𝙾𝚆 𝙴𝙽𝙹𝙾𝚈 𝙿𝙴𝙽𝙴𝚃𝙸 𝙼𝙳 𝙱𝙾𝚃.
 
 
-## THANK YOU CHOOSING PENETI-MD 👨‍💻
-
-## Contributions
-
-Contributions to Peneti-bot are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
-
-   thinks to these persons ;
-
-   **PENETI** who added commands (Fancy, gpt, dalle, apk); <br>
-
-   **Mpeneti** who hosted a second website for the session_id;
+## THANK TO PENETI-MD 👨‍💻
 
 ## License
 
