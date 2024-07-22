@@ -37,9 +37,9 @@ ________________________
 |😎| *Time* : ${new Date().toLocaleTimeString()} 
 |😎| *Memory* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())} 
 |😎| *Platform* : ${os.platform()} 
-|😎| *Developer* : PRO TECH 
+|😎| *Developer* : M Peneti 
 |😎>>>>>>>>>>>>>>>>>>>> 
-|😎😎😎😎vibez😎😎😎😎😎 \n\n`;
+|😎😎😎★ninja★🤖 \n\n`;
 ------------------------
 
   menuMsg += infoMsg;
@@ -59,14 +59,14 @@ menuMsg += `${button.text}\n`;
   const link = mybotpic();
   if (link.match(/\.(mp4|gif)$/i)) {
     try {
-      zk.sendMessage(dest, { video: { url: link }, caption: menuMsg, footer: "I am Vibez-MD, my creator is PRO TECH", gifPlayback: true }, { quoted: ms });
+      zk.sendMessage(dest, { video: { url: link }, caption: menuMsg, footer: "I am Peneti-MD, my creator is M Peneti", gifPlayback: true }, { quoted: ms });
     } catch (e) {
       console.log("Menu error: " + e);
       respond("Menu error: " + e);
     }
   } else if (link.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-      zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "I am Vibez-MD, developed by Terry" }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "I am Peneti-MD, developed by Mathis" }, { quoted: ms });
     } catch (e) {
       console.log("Menu error: " + e);
       respond("Menu error: " + e);
