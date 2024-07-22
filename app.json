@@ -1,14 +1,14 @@
 {
-  "name": "Zokou-2.0",
-  "description": "bot whatsapp développé par djalega++",
+  "name": "Peneti-MD",
+  "description": "bot whatsapp developer par M-Peneti",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://raw.githubusercontent.com/djalega8000/Zokou-2.0/main/Zokou.jpg",
-  "repository": "https://github.com/djalega8000/Zokou-2.0",
+  "logo": "https//github.com/Mpeneti",
+  "repository": "https://github.com/Mpeneti/Peneti-MD",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -34,12 +34,12 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "Zokou-MD",
+      "value": "𝐏𝐞𝐧𝐞𝐭𝐢-𝐌𝐃",
       "required": false
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value": "https://i.pinimg.com/736x/0a/70/6f/0a706f90d6a1fb39919aedfbb7fdd8d3.jpg",
+      "value": "https://telegra.ph/file/97c065da33fda74b658a0.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -63,12 +63,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "Djalega++"
+      "value": "Peneti"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "22891733300"
+      "value": "263789660160"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
